@@ -138,11 +138,9 @@ This project was created using the following technologies.
 ![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Github: [Ruchit Joshi](https://github.com/Ruchit2642)
+- Linkedin: [Ruchit Joshi](https://www.linkedin.com/in/ruchit-joshi)
+- Email: [ruchitjoshi264@gmail.com](ruchitjoshi264@gmail.com)
 
 ## License
 
